@@ -2,6 +2,20 @@
 
 ## Projects
 
+- NLP:[Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
+- ADAS:[Open-Loop Baseline for Reinforcement Learning Locomotion Tasks]
+- ADAS:[Trajectory Planning in Dynamic Environments](#trajectory-planning-in-dynamic-environments)
+- NLP:[Debate Clustering](#debate-clustering)
+- NLP:[Echo Canyon: Lyric Generator incl. Rhyming Tool](#echo-canyon-lyric-generator-incl-rhyming-tool)
+- ADAS:[Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information](#route-prediction-in-roundabout-with-neural-networks-utilizing-prior-map-information)
+
+---
+
+
+
+
+
+
 ### Developing Systems for Trustworthy Medical Question Answering (ongoing)
 
 Developing a local-hosted (opt. cloud-hosted) Perplexity like GenAI (NLP-RAG) for medical research/consumer questions, based on scientific articles
@@ -9,7 +23,21 @@ Developing a local-hosted (opt. cloud-hosted) Perplexity like GenAI (NLP-RAG) fo
 - handling 20 million research papers
 - implemented for both MacOS & Ubuntu
 
-```TODO:good example for chat UI and sources etc.```
+```(incoming): example for chat UI with sources```
+
+---
+
+
+
+
+### Open-Loop Baseline for Reinforcement Learning Locomotion Tasks 
+
+I have contributed to the publication [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_18.pdf) by setting up and testing the simulation environment and hyperparameter optimization tools for the experiments.
+
+---
+
+
+
 
 
 ### Trajectory Planning in Dynamic Environments
@@ -17,11 +45,15 @@ Developing a local-hosted (opt. cloud-hosted) Perplexity like GenAI (NLP-RAG) fo
 This project was to develop a reinforcement learning based algorithm to do trajectory planning for a mobile robot. A good real life application for this project would be a waiter robot for restaurants or cafes, where there are both stationary and dynamic obstacles on the way to the robot's goal destination.
 
 
-<img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/avoid_obs_sometimes/traj_check.gif" width=200 height=200> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/fails_to_avoid_if_headon_from_target_dir/traj_check.gif" width=200 height=200> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/waiting/traj_check.gif" width=200 height=200>
+<img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/avoid_obs_sometimes/traj_check_2.gif" width=150 height=150> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/fails_to_avoid_if_headon_from_target_dir/traj_check_2.gif" width=150 height=150> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/waiting/traj_check_2.gif" width=150 height=150> 
 
 Above you can see examples of avoiding obstacles, trying to avoid head on collision directly coming from the goal position & waiting for moving obstacles to pass. More information can be found in the presentation.
 
 [Presentation](https://tatlikazan-rv.github.io/assets/files/adlr/ADLR_Github.pdf)
+
+---
+
+
 
 
 
@@ -34,6 +66,10 @@ This project was aimed at analyzing parliamentary debates by looking at the most
 Above you can see an example heatmap style character similarity matrix. More information can be found in the poster.
 
 [Poster](https://tatlikazan-rv.github.io/assets/files/Argument%20Clustering%20in%20Debate%20Format%20Game%20of%20Thrones.pdf)
+
+---
+
+
 
 
 
@@ -56,3 +92,17 @@ Example Menu:
 Above you can see an example for the basic menu from jupyter notebooks. More examples can be found in the presentation.
 
 [Presentation](https://tatlikazan-rv.github.io/assets/files/echo-canyon/Echo-Canyon-Feature-Examples.pdf)
+
+---
+
+
+
+
+
+### Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information
+
+This project was my Bachelor Thesis in coop. with KIT-MRT and Scania Sverige AB.
+It focuses on the route prediction in round abouts by trying to estimate the route of a vehicle utilizing lane information and the vehicles previous trajectory. 
+
+<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/map.png" width=500 height=300>
+<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/prediction.png" width=500 height=300>
