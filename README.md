@@ -8,6 +8,8 @@
 
 ### Trajectory Planning in Dynamic Environments
 
-![Presentation](https://tatlikazan-rv.github.io/assets/files/adlr/ADLR_Github.pdf)
+[Presentation](https://tatlikazan-rv.github.io/assets/files/adlr/ADLR_Github.pdf)
+
+<a href="[username.github.io/folder/document.pdf](https://tatlikazan-rv.github.io/assets/files/adlr/ADLR_Github.pdf)" target="_blank">Presentation</a>
 
 ### Echo Canyon: Lyric Generator incl. Rhyming Tool 
