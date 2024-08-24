@@ -16,6 +16,7 @@ Developing a local-hosted (opt. cloud-hosted) Perplexity like GenAI (NLP-RAG) fo
 
 This project was to develop a reinforcement learning based algorithm to do trajectory planning for a mobile robot. A good real life application for this project would be a waiter robot for restaurants or cafes, where there are both stationary and dynamic obstacles on the way to the robot's goal destination.
 
+
 <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/avoid_obs_sometimes/traj_check.gif" width=200 height=200> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/fails_to_avoid_if_headon_from_target_dir/traj_check.gif" width=200 height=200> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/waiting/traj_check.gif" width=200 height=200>
 
 Above you can see examples of avoiding obstacles, trying to avoid head on collision directly coming from the goal position & waiting for moving obstacles to pass. More information can be found in the presentation.
