@@ -111,4 +111,4 @@ Above you can see an example for the basic menu from jupyter notebooks. More exa
 This project was my Bachelor Thesis in coop. with KIT-MRT and Scania Sverige AB. It focuses on the route prediction in roundabouts by trying to estimate the route of a vehicle utilizing lane information and the vehicles previous trajectory. 
 
 <img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/map.png" width=250 height=150>
-<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/prediction.png" width=250 height=150>
+<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/prediction.png" width=170 height=150>
