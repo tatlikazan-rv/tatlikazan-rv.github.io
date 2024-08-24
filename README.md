@@ -1,7 +1,6 @@
 # NLP & ADAS
 
 ## Projects
-has 
 
 - NLP:[Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
 - ADAS:[Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
