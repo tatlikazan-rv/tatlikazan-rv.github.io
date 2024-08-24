@@ -2,12 +2,12 @@
 
 ## Projects
 
-- NLP:[Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
+- NLP: [Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
 - ADAS:[Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
-- NLP:[Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
+- NLP: [Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
 - ADAS:[Trajectory Planning in Dynamic Environments*](#trajectory-planning-in-dynamic-environments)
-- NLP:[Debate Clustering*](#debate-clustering)
-- NLP:[Echo Canyon: Lyric Generator incl. Rhyming Tool*](#echo-canyon-lyric-generator-incl-rhyming-tool)
+- NLP: [Debate Clustering*](#debate-clustering)
+- NLP: [Echo Canyon: Lyric Generator incl. Rhyming Tool*](#echo-canyon-lyric-generator-incl-rhyming-tool)
 - ADAS:[Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information](#route-prediction-in-roundabout-with-neural-networks-utilizing-prior-map-information)
 
 *incl. code on GitHub
