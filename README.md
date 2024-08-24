@@ -74,7 +74,7 @@ This project was aimed at analyzing parliamentary debates by looking at the most
 
 Above you can see an example heatmap style character similarity matrix. More information can be found in the poster.
 
-[Poster](https://tatlikazan-rv.github.io/assets/files/Argument%20Clustering%20in%20Debate%20Format%20Game%20of%20Thrones.pdf)
+[Poster](https://tatlikazan-rv.github.io/assets/files/Argument-Clustering-in-Debate-Format-Game-of-Thrones.pdf)
 
 ---
 
