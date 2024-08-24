@@ -3,7 +3,8 @@
 ## Projects
 
 - NLP:[Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
-- ADAS:[Open-Loop Baseline for Reinforcement Learning Locomotion Tasks]
+- ADAS:[Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
+- NLP:[Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
 - ADAS:[Trajectory Planning in Dynamic Environments](#trajectory-planning-in-dynamic-environments)
 - NLP:[Debate Clustering](#debate-clustering)
 - NLP:[Echo Canyon: Lyric Generator incl. Rhyming Tool](#echo-canyon-lyric-generator-incl-rhyming-tool)
@@ -18,10 +19,7 @@
 
 ### Developing Systems for Trustworthy Medical Question Answering (ongoing)
 
-Developing a local-hosted (opt. cloud-hosted) Perplexity like GenAI (NLP-RAG) for medical research/consumer questions, based on scientific articles
-- Focusing on privacy and interpretability, 
-- handling 20 million research papers
-- implemented for both MacOS & Ubuntu
+I am currently developing a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers and it's implemented for both MacOS & Ubuntu.
 
 ```(incoming): example for chat UI with sources```
 
@@ -40,14 +38,23 @@ I have contributed to the publication [Open-Loop Baseline for Reinforcement Lear
 
 
 
+### Obsidian Plugin - Live Text Translator from German/Turkish to English
+
+This project was to solve a problem faced during note-taking for multilingual people. Specifically, when one word is remembered in one language but not the other and is written down that way, it causes problems with searching algorithms. To solve this, I have implemented a word based live text translator in the markdown-based note-taking app Obsidian.
+
+---
+
+
+
+
 ### Trajectory Planning in Dynamic Environments
 
 This project was to develop a reinforcement learning based algorithm to do trajectory planning for a mobile robot. A good real life application for this project would be a waiter robot for restaurants or cafes, where there are both stationary and dynamic obstacles on the way to the robot's goal destination.
 
 
-<img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/avoid_obs_sometimes/traj_check_2.gif" width=150 height=150> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/fails_to_avoid_if_headon_from_target_dir/traj_check_2.gif" width=150 height=150> <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/waiting/traj_check_2.gif" width=150 height=150> 
+<img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/avoid_obs_sometimes/traj_check_2.gif" width=150 height=150> - <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/fails_to_avoid_if_headon_from_target_dir/traj_check_2.gif" width=150 height=150> - <img src="https://tatlikazan-rv.github.io/assets/files/adlr/Gifs/plots/waiting/traj_check_2.gif" width=150 height=150> 
 
-Above you can see examples of avoiding obstacles, trying to avoid head on collision directly coming from the goal position & waiting for moving obstacles to pass. More information can be found in the presentation.
+Above you can see examples of avoiding obstacles, a failing example for trying to avoid head on collision directly coming from the goal position & succefully waiting for moving obstacles to pass. More information can be found in the presentation.
 
 [Presentation](https://tatlikazan-rv.github.io/assets/files/adlr/ADLR_Github.pdf)
 
@@ -101,8 +108,7 @@ Above you can see an example for the basic menu from jupyter notebooks. More exa
 
 ### Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information
 
-This project was my Bachelor Thesis in coop. with KIT-MRT and Scania Sverige AB.
-It focuses on the route prediction in round abouts by trying to estimate the route of a vehicle utilizing lane information and the vehicles previous trajectory. 
+This project was my Bachelor Thesis in coop. with KIT-MRT and Scania Sverige AB. It focuses on the route prediction in roundabouts by trying to estimate the route of a vehicle utilizing lane information and the vehicles previous trajectory. 
 
-<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/map.png" width=500 height=300>
-<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/prediction.png" width=500 height=300>
+<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/map.png" width=250 height=150>
+<img src="https://tatlikazan-rv.github.io/assets/files/route-prediction/prediction.png" width=250 height=150>
