@@ -2,41 +2,12 @@
 title: Ragip Volkan Tatlikazan
 logo: /assets/logo/PictureBW-small.png
 description: "Here you can see my projects on
-
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   Natural Language Processing &
-
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   Adv. Driver Assistance Systems"
 #show_downloads:
 theme: jekyll-theme-minimal
 
 #https://github.com/DCgov/guides-template/blob/gh-pages/_config.yml
 
-
-navigation:
-- text: Developing Systems for Trustworthy Medical Question Answering
-  internal: true
-  url: https://tatlikazan-rv.github.io/#developing-systems-for-trustworthy-medical-question-answering-ongoing
-
-#- text: Add a new page
-#  internal: true
-#  url: https://tatlikazan-rv.github.io/
-#- text: Configure the Guide
-#  internal: true
-#  url: https://tatlikazan-rv.github.io/
-#- text: GitHub Setup
-#  internal: true
-#  url: https://tatlikazan-rv.github.io/
-#- text: Create a Glossary
-#  internal: true
-#  url: https://tatlikazan-rv.github.io/
-#- text: Edit this Repo
-#  internal: false
-#  url: https://tatlikazan-rv.github.io/###
-
-#  - NLP: [Developing Systems for Trustworthy Medical Question Answering]
-#- ADAS: [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
-#- NLP: [Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
-#- ADAS: [Trajectory Planning in Dynamic Environments*](#trajectory-planning-in-dynamic-environments)
-#- NLP: [Debate Clustering*](#debate-clustering)
-#- NLP: [Echo Canyon: Lyric Generator incl. Rhyming Tool*](#echo-canyon-lyric-generator-incl-rhyming-tool)
-#- ADAS: [Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information](#route-prediction-in-roundabout-with-neural-networks-utilizing-prior-map-information)
