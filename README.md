@@ -21,9 +21,13 @@
 
 ### Developing Systems for Trustworthy Medical Question Answering (ongoing)
 
-I am currently developing a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers and it's implemented for both MacOS & Ubuntu.
+I am currently developing a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers.
 
-```(incoming): example for chat UI with sources```
+Example UI for Model/Method Comparisons:
+
+<img src="https://tatlikazan-rv.github.io/assets/files/tMQA/image.png">
+
+
 
 ---
 
