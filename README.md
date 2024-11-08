@@ -25,7 +25,7 @@ I am currently developing a local-hosted (opt. cloud-hosted) Perplexity like Gen
 
 Example UI for Model/Method Comparisons:
 
-<img src="https://tatlikazan-rv.github.io/assets/files/tMQA/image.png">
+<img src="https://tatlikazan-rv.github.io/assets/files/tMQA/ScreenRecMT.gif">
 
 
 
