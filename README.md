@@ -1,5 +1,12 @@
 # NLP & ADAS
 
+## Hello
+
+Thank you for your interest and visiting my page! 
+I am mainly interested in optimizing general everyday tasks which led me to NLP(Natural Language Processing) and ADAS(Autonomous Driving Assitance Systems) for which I have done close to industry level projects. And would like to work in motion planning for cars/mobile robots OR NLP systems (RAG,LLMOps) in health care branche. Below you can find a mix of personal, bachelor/master programm related and independant research projects I have done so far :) 
+
+
+
 ## Projects
 
 - NLP: [Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
@@ -21,9 +28,9 @@
 
 ### Developing Systems for Trustworthy Medical Question Answering (ongoing)
 
-I am currently developing a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers.
+I have developed a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers.
 
-Example UI for Model/Method Comparisons:
+UI Example for Model/Method Comparisons:
 
 <img src="https://tatlikazan-rv.github.io/assets/files/tMQA/ScreenRecMT.gif">
 
