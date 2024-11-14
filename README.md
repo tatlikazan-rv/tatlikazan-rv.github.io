@@ -35,6 +35,10 @@ UI Example for Model/Method Comparisons:
 <img src="https://tatlikazan-rv.github.io/assets/files/tMQA/ScreenRecMT.gif">
 
 
+Pipeline and Answer-Backtracking Diagrams:
+<img src="https://tatlikazan-rv.github.io/assets/files/tMQA/pipeline.jpg">
+<img src="https://tatlikazan-rv.github.io/assets/files/tMQA/answer_backtracking.png">
+
 
 ---
 
