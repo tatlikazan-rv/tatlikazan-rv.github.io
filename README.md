@@ -26,7 +26,7 @@ I am mainly interested in optimizing general everyday tasks which led me to NLP(
 
 
 
-### Developing Systems for Trustworthy Medical Question Answering (ongoing)
+### Developing Systems for Trustworthy Medical Question Answering
 
 I have developed a local-hosted (opt. cloud-hosted) Perplexity like Generative AI(NLP-RAG) app for medical research/consumer questions, based on scientific articles. It focuses on privacy and interpretability. It can handle 20 million research papers.
 
