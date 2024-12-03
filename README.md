@@ -31,7 +31,7 @@ Team Role: market strategizer, facilitator, code reviewer, bug finder
 More info here: [Devpost Page](https://devpost.com/software/seismicspecialists?ref_content=my-projects-tab&ref_feature=my_projects), 
 [LinkedIn Post & Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7269360890720698371/)
 
-Simulation example of the first part of the final round:
+Simulation example of the first part of the final round: (Team-054)
 <video width="480" height="300" controls loop="" muted = "" autoplay="">
     <source src="https://tatlikazan-rv.github.io/assets/files/hackatum-optiver/trade-algo-sim.mp4">
 </video>
