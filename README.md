@@ -26,12 +26,13 @@ I am mainly interested in optimizing general everyday tasks which led me to NLP(
 ### HackaTUM24: Optiver Challenge (Finalist)
 Optiver Holding B.V. is a proprietary trading firm and market maker for various exchange-listed financial instruments.
 Our strategy for the challenge was mainly a Real-time fourier decomposition for black box approximation of other market agents.
-Team Role: market strategizer, facilitator, line by line code reviewer, bug finder    
+
+Team Role: market strategizer, facilitator, code reviewer, bug finder    
 More info here: [Devpost Page](https://devpost.com/software/seismicspecialists?ref_content=my-projects-tab&ref_feature=my_projects), 
 [LinkedIn Post & Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7269360890720698371/)
 
 Simulation example of the first part of the final round:
-<video width="480" height="460" controls loop="" muted = "" autoplay="">
+<video width="480" height="300" controls loop="" muted = "" autoplay="">
     <source src="https://tatlikazan-rv.github.io/assets/files/hackatum-optiver/trade-algo-sim.mp4">
 </video>
 
