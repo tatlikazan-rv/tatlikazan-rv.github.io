@@ -9,20 +9,31 @@ I am mainly interested in optimizing general everyday tasks which led me to NLP(
 
 ## Projects
 
-- NLP: [Developing Systems for Trustworthy Medical Question Answering](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
-- ADAS: [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
-- NLP: [Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
-- ADAS: [Trajectory Planning in Dynamic Environments*](#trajectory-planning-in-dynamic-environments)
-- NLP: [Debate Clustering*](#debate-clustering)
-- NLP: [Echo Canyon: Lyric Generator incl. Rhyming Tool*](#echo-canyon-lyric-generator-incl-rhyming-tool)
-- ADAS: [Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information](#route-prediction-in-roundabout-with-neural-networks-utilizing-prior-map-information)
+- TRADE: [HackaTUM24: Optiver Challenge (Finalist)](#hackatum24-optiver-challenge-finalist)
+- NLP:   [Developing Systems for Trustworthy Medical Question Answering*](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
+- ADAS:  [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
+- NLP:   [Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
+- ADAS:  [Trajectory Planning in Dynamic Environments*](#trajectory-planning-in-dynamic-environments)
+- NLP:   [Debate Clustering*](#debate-clustering)
+- NLP:   [Echo Canyon: Lyric Generator incl. Rhyming Tool*](#echo-canyon-lyric-generator-incl-rhyming-tool)
+- ADAS:  [Route Prediction in Roundabout with Neural Networks utilizing Prior Map Information](#route-prediction-in-roundabout-with-neural-networks-utilizing-prior-map-information)
 
 *incl. code on GitHub
 
 ---
 
 
+### HackaTUM24: Optiver Challenge (Finalist)
+Optiver Holding B.V. is a proprietary trading firm and market maker for various exchange-listed financial instruments.
+Our strategy for the challenge was mainly a Real-time fourier decomposition for black box approximation of other market agents.
+Team Role: market strategizer, facilitator, line by line code reviewer, bug finder    
+More info here: [Devpost Page](https://devpost.com/software/seismicspecialists?ref_content=my-projects-tab&ref_feature=my_projects), 
+[LinkedIn Post & Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7269360890720698371/)
 
+Simulation example of the first part of the final round:
+<video width="320" height="240" controls loop="" muted = "" autoplay="">
+    <source src="https://tatlikazan-rv.github.io/assets/files/hackatum-optiver/trade-algo-sim.mp4">
+</video>
 
 
 
