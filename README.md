@@ -36,6 +36,9 @@ Simulation example of the first part of the final round:
     <source src="https://tatlikazan-rv.github.io/assets/files/hackatum-optiver/trade-algo-sim.mp4">
 </video>
 
+---
+
+
 
 
 ### Developing Systems for Trustworthy Medical Question Answering
