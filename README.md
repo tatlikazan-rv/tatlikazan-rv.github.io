@@ -31,7 +31,7 @@ More info here: [Devpost Page](https://devpost.com/software/seismicspecialists?r
 [LinkedIn Post & Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7269360890720698371/)
 
 Simulation example of the first part of the final round:
-<video width="320" height="240" controls loop="" muted = "" autoplay="">
+<video width="480" height="460" controls loop="" muted = "" autoplay="">
     <source src="https://tatlikazan-rv.github.io/assets/files/hackatum-optiver/trade-algo-sim.mp4">
 </video>
 
