@@ -3,7 +3,7 @@
 ## Hello
 
 Thank you for your interest and visiting my page! 
-I am mainly interested in optimizing general everyday tasks which led me to NLP(Natural Language Processing) and ADAS(Autonomous Driving Assitance Systems) for which I have done close to industry level projects. And would like to work in motion planning for cars/mobile robots OR NLP systems (RAG,LLMOps) in health care branche. Below you can find a mix of personal, bachelor/master programm related and independant research projects I have done so far :) 
+I am mainly interested in optimizing general everyday tasks which led me to NLP(Natural Language Processing) and ADAS(Autonomous Driving Assitance Systems) for which I have done close to industry level projects. And I would like to work in motion planning for cars/mobile robots OR NLP systems (RAG,LLMOps) in health care branche. Below you can find a mix of personal, bachelor/master programm related and independant research projects I have done so far :) 
 
 
 
@@ -12,6 +12,7 @@ I am mainly interested in optimizing general everyday tasks which led me to NLP(
 - TRADE: [HackaTUM24: Optiver Challenge (Finalist)](#hackatum24-optiver-challenge-finalist)
 - NLP:   [Developing Systems for Trustworthy Medical Question Answering*](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
 - ADAS:  [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
+- 3DCV: [Polarimetric Monocular Depth Estimation](#polarimetric-monocular-depth-estimation)
 - NLP:   [Obsidian Live Text Translator from German/Turkish to English](#obsidian-plugin---live-text-translator-from-germanturkish-to-english)
 - ADAS:  [Trajectory Planning in Dynamic Environments*](#trajectory-planning-in-dynamic-environments)
 - NLP:   [Debate Clustering*](#debate-clustering)
@@ -66,6 +67,18 @@ I have contributed to the publication [Open-Loop Baseline for Reinforcement Lear
 
 ---
 
+### Polarimetric Monocular Depth Estimation
+
+This project was on developing a monocular image depth estimation network architecture (2D to 3D) further. It was a modular architecture that mainly utilizes
+polarization of light. I was the team lead of 4, an the project indirectly contributed to a publication [Polarimetric Pose Prediction](https://arxiv.org/pdf/2112.03810).
+
+<img src="https://tatlikazan-rv.github.io/assets/files/at3dcv/assets/files/at3dcv/Screenshot3.png" width=225> - <img src="https://tatlikazan-rv.github.io/assets/files/at3dcv/assets/files/at3dcv/Screenshot1.png" width=225>  - <img src="https://tatlikazan-rv.github.io/assets/files/at3dcv/assets/files/at3dcv/Screenshot2.png"> 
+<img src="https://tatlikazan-rv.github.io/assets/files/at3dcv/assets/files/at3dcv/Screenshot4.png"> 
+
+
+[Presentation](https://tatlikazan-rv.github.io/assets/files/at3dcv/PolarimetricDepthEstimation_FinalPresentation.pdf)
+
+---
 
 
 
