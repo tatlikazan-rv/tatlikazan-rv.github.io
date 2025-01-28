@@ -9,7 +9,7 @@ I am mainly interested in optimizing general everyday tasks which led me to NLP(
 
 ## Projects
 
-- TRADE: [HackaTUM24: Optiver Challenge (Finalist)](#hackatum24-optiver-challenge-finalist)
+- ALGO TRADE: [HackaTUM24: Optiver Challenge (Finalist)](#hackatum24-optiver-challenge-finalist)
 - NLP:   [Developing Systems for Trustworthy Medical Question Answering*](#developing-systems-for-trustworthy-medical-question-answering-ongoing)
 - ADAS:  [Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](#open-loop-baseline-for-reinforcement-learning-locomotion-tasks)
 - 3DCV: [Polarimetric Monocular Depth Estimation](#polarimetric-monocular-depth-estimation)
